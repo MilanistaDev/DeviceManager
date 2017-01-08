@@ -12,6 +12,7 @@
 		FD4277441E22AAFF009DF85B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD4277421E22AAFF009DF85B /* Main.storyboard */; };
 		FD4277461E22AAFF009DF85B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD4277451E22AAFF009DF85B /* Assets.xcassets */; };
 		FD4277491E22AAFF009DF85B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD4277471E22AAFF009DF85B /* LaunchScreen.storyboard */; };
+		FD4277511E22BBD3009DF85B /* DeviceList.plist in Resources */ = {isa = PBXBuildFile; fileRef = FD4277501E22BBD3009DF85B /* DeviceList.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FD4277451E22AAFF009DF85B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FD4277481E22AAFF009DF85B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FD42774A1E22AAFF009DF85B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FD4277501E22BBD3009DF85B /* DeviceList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = DeviceList.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				FD4277451E22AAFF009DF85B /* Assets.xcassets */,
 				FD4277471E22AAFF009DF85B /* LaunchScreen.storyboard */,
 				FD42774A1E22AAFF009DF85B /* Info.plist */,
+				FD4277501E22BBD3009DF85B /* DeviceList.plist */,
 			);
 			path = DeviceManager;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			files = (
 				FD4277491E22AAFF009DF85B /* LaunchScreen.storyboard in Resources */,
 				FD4277461E22AAFF009DF85B /* Assets.xcassets in Resources */,
+				FD4277511E22BBD3009DF85B /* DeviceList.plist in Resources */,
 				FD4277441E22AAFF009DF85B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

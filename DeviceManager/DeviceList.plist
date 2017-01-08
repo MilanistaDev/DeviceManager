@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   DeviceList.plist
+   OCDeviceManager
+
+   Created by 麻生 拓弥 on 2016/08/12.
+   Copyright (c) 2016年 麻生 拓弥. All rights reserved.
+-->
+<plist version="1.0">
+    <dict>
+        <key>0</key>
+        <string>Unknown</string>
+        <key>1</key>
+        <string>iPhone 4S</string>
+        <key>2</key>
+        <string>iPhone 5</string>
+        <key>3</key>
+        <string>iPhone 5c</string>
+        <key>4</key>
+        <string>iPhone 5s</string>
+        <key>5</key>
+        <string>iPhone 6 Plus</string>
+        <key>6</key>
+        <string>iPhone 6</string>
+        <key>7</key>
+        <string>iPhone 6s</string>
+        <key>8</key>
+        <string>iPhone 6s Plus</string>
+        <key>9</key>
+        <string>iPhone SE</string>
+        <key>10</key>
+        <string>iPhone 7</string>
+        <key>11</key>
+        <string>iPhone 7 Plus</string>
+        <key>12</key>
+        <string>iPad mini 1</string>
+        <key>13</key>
+        <string>iPad 3</string>
+        <key>14</key>
+        <string>iPad 4</string>
+        <key>15</key>
+        <string>iPad Air</string>
+        <key>16</key>
+        <string>iPad mini 2</string>
+        <key>17</key>
+        <string>iPad mini 3</string>
+        <key>18</key>
+        <string>iPad mini 4</string>
+        <key>19</key>
+        <string>iPad Air 2</string>
+        <key>20</key>
+        <string>iPad Pro 9.7</string>
+        <key>21</key>
+        <string>iPad Pro 12.9</string>
+        <key>22</key>
+        <string>iPod touch 5</string>
+        <key>23</key>
+        <string>iPod touch 6</string>
+    </dict>
+</plist>
