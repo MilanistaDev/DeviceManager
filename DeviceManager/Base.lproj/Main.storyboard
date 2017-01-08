@@ -88,11 +88,12 @@
                     <navigationItem key="navigationItem" title="iOS Device Checker" id="O4M-u8-Czp"/>
                     <connections>
                         <outlet property="modelNumberLabel" destination="Vae-C1-2K1" id="BmK-Tc-lDK"/>
-                        <outlet property="useriOSDeviceLabel" destination="Vae-C1-2K1" id="riV-bQ-1YH"/>
+                        <outlet property="useriOSDeviceLabel" destination="1ch-Dh-o1N" id="HQu-0u-nI9"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
+            <point key="canvasLocation" x="290" y="136"/>
         </scene>
     </scenes>
 </document>
